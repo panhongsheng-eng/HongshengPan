@@ -42,27 +42,8 @@ sections:
         🎥 **录制** - 内置录制和摄像头视图<br>
         📤 **便携** - 导出为 PDF、PPTX、PNG，甚至是可托管的 SPA<br>
         🛠 **可黑客化** - 几乎所有网页上可能的操作都可以在 Slidev 中实现<br>
-        .flex-container {
-  display: flex;
-  justify-content: space-between; /* 左右对齐 */
-  gap: 2rem; /* 列间距 */
-}
-
-.flex-item {
-  flex: 1; /* 平分空间 */
-  padding: 1rem; /* 列内边距 */
-}
-
-.left {
-  flex: 2; /* 左列宽度为右列的两倍 */
-}
-
-.right {
-  flex: 1; /* 右列宽度 */
-}
-
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
