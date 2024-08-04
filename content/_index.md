@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+- 📝 **Text-based** - focus on the content with Markdown, and then style them later
+- 🎨 **Themable** - themes can be shared and re-used as npm packages
+- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
+- 🤹 **Interactive** - embed Vue components to enhance your expressions
+- 🎥 **Recording** - built-in recording and camera view
+- 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
+- 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
     design:
       columns: '1'
   - block: collection
