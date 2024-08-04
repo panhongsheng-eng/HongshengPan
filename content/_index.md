@@ -32,11 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Learning💯'
       subtitle: ''
       text: |
-        📝 **Latex** - 关注内容的 Markdown，然后再进行样式设置 <br>
-        🎨 **可主题化** - 主题可以作为 npm 包共享和重用<br>
+        📝 **<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>** 
+        🎨 **** - 主题可以作为 npm 包共享和重用<br>
         🧑‍💻 **对开发者友好** - 代码高亮、实时编码和自动补全<br>
         🤹 **互动性** - 嵌入 Vue 组件以增强表达<br>
         🎥 **录制** - 内置录制和摄像头视图<br>
