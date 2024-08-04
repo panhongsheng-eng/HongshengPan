@@ -11,7 +11,7 @@ last_name: Pan
 
 # Status emoji
 status:
-  icon: 🧑‍🎓
+  icon: 🧑🏻‍🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Hi，I'am HongshenPan🥳,My current interests are studying HarmonyOS, robotic kinematics algorithms, high-performance computing, geometry, artificial intelligence
+Hi，I'am HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing Grid Computing Technology And Parallel Computing💻，Ai + Internet of Things: Smart Logistics, Smart Healthcare, Smart Home, Intelligent Transportation, Modern Agriculture
