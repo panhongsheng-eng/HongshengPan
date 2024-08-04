@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 潘宏声
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hong sheng Pan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hongsheng
+last_name: Pan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: ChatGPT
     url: https://openai.com/
 
 # Social network links
@@ -48,8 +48,12 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Science
+  - Mathematics
+  - 5G Communication Technology
+  - Computer Graphics
+  - HarmonyOS
+  - AIOT
 
 education:
   - area: PhD Artificial Intelligence
