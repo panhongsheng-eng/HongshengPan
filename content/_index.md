@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text:
       📝 **Text-based** - focus on the content with Markdown, and then style them later
       🎨 **Themable** - themes can be shared and re-used as npm packages
       🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
