@@ -50,7 +50,7 @@ interests:
   - Artificial Intelligence - AIOT
   - Mathematics             - Computer Graphics
   - HarmonyOS               - Computer Science
-  - Quantum Computing       - Quantum Programming 
+  - Quantum Computing & Quantum Programming 
   - 5G Communication Technology
 education:
   - area: PhD Artificial Intelligence
