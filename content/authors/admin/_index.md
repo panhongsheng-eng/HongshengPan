@@ -47,14 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computer Science
-  - Mathematics
+  - Artificial Intelligence   - Computer Science
+  - Mathematics               - Computer Graphics
+  - HarmonyOS                 - AIOT
   - 5G Communication Technology
-  - Computer Graphics
-  - HarmonyOS
-  - AIOT
-
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
