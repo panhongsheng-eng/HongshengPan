@@ -35,13 +35,13 @@ sections:
       title: '📚 My Learning💯'
       subtitle: ''
       text: |
-        📝 **<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>** 
-        🎨 **** - 主题可以作为 npm 包共享和重用<br>
-        🧑‍💻 **对开发者友好** - 代码高亮、实时编码和自动补全<br>
-        🤹 **互动性** - 嵌入 Vue 组件以增强表达<br>
-        🎥 **录制** - 内置录制和摄像头视图<br>
-        📤 **便携** - 导出为 PDF、PPTX、PNG，甚至是可托管的 SPA<br>
-        🛠 **可黑客化** - 几乎所有网页上可能的操作都可以在 Slidev 中实现<br>
+        🔖**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>**- 
+        🏷️**<a href="https://openmlsys.github.io/index.html" target="_blank">Machine learning systems: design and implementation</a>**<br>
+        🧑‍💻**<a href="https://zh.d2l.ai/" target="_blank">Dive into Deep Learning </a>**<br>
+        📙**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>**<br>
+        📘**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>**<br>
+        📗**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>**<br>
+        📖**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">Understanding Deep Learning </a>**<br>
     design:
       columns: '2'
   - block: collection
