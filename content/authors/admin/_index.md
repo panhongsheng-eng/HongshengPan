@@ -184,4 +184,6 @@ awards:
 
 ## About Me
 
-Hi，I'am HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing And Parallel Computing💻，AIOT: Smart Logistics, Smart Healthcare, Smart Home, Intelligent Transportation, Modern Agriculture
+Hi，I'am HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing And Parallel Computing💻，AIOT.
+Internship Experience：Jinan National Supercomputing Center - parallel computing research center.
+
