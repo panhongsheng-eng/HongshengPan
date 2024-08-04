@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence   - Computer Science
+  - Artificial Intelligence   - AIOT
   - Mathematics               - Computer Graphics
-  - HarmonyOS                 - AIOT
+  - HarmonyOS                 - Computer Science 
   - 5G Communication Technology
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi，I'am HongshenPan🥳,My current interests are studying HarmonyOS, robotic kinematics algorithms, high-performance computing, geometry, artificial intelligence
