@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: |
         📝 **基于文本** - 关注内容的 Markdown，然后再进行样式设置
         🎨 **可主题化** - 主题可以作为 npm 包共享和重用
         🧑‍💻 **对开发者友好** - 代码高亮、实时编码和自动补全
