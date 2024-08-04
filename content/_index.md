@@ -34,14 +34,14 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:
-      📝 **Text-based** - focus on the content with Markdown, and then style them later
-      🎨 **Themable** - themes can be shared and re-used as npm packages
-      🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-      🤹 **Interactive** - embed Vue components to enhance your expressions
-      🎥 **Recording** - built-in recording and camera view
-      📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
-      🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
+      text: |-
+      📝 **基于文本** - 关注内容的 Markdown，然后再进行样式设置
+      🎨 **可主题化** - 主题可以作为 npm 包共享和重用
+      🧑‍💻 **对开发者友好** - 代码高亮、实时编码和自动补全
+      🤹 **互动性** - 嵌入 Vue 组件以增强表达
+      🎥 **录制** - 内置录制和摄像头视图
+      📤 **便携** - 导出为 PDF、PPTX、PNG，甚至是可托管的 SPA
+      🛠 **可黑客化** - 几乎所有网页上可能的操作都可以在 Slidev 中实现
     design:
       columns: '1'
   - block: collection
