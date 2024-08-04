@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'phshuaweiit@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -184,6 +184,6 @@ awards:
 
 ## About Me
 
-Hi，I'am HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing And Parallel Computing💻，AIOT.
+Hi，I'am HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing And Parallel Computing💻，AIOT.<br>
 Internship Experience：Jinan National Supercomputing Center - parallel computing research center.
 
