@@ -35,10 +35,10 @@ sections:
       title: '📚 My Learning💯'
       subtitle: ''
       text: |
-        🔖**<a href="https://udlbook.github.io/udlbook/" target="_blank">Understanding Deep Learning </a>**
+        🔖**<a href="https://udlbook.github.io/udlbook/" target="_blank">Understanding Deep Learning </a>**<br>
         🏷️**<a href="https://openmlsys.github.io/index.html" target="_blank">Machine learning systems: design and implementation</a>**<br>
         🧑‍💻**<a href="https://zh.d2l.ai/" target="_blank">Dive into Deep Learning </a>**<br>
-        📙**<a href="https://www.hello-algo.com/en/" target="_blank">Data Structures And Algorithms </a>**<br>-A must-see for getting started with algorithms
+        📙**<a href="https://www.hello-algo.com/en/" target="_blank">Data Structures And Algorithms </a>**<br>
         📘**<a href="[https://example.com](https://udlbook.github.io/udlbook/)" target="_blank">High-Performance Computing-MPI </a>**<br>
         📗**<a href="https://genome.ucsc.edu/index.html" target="_blank">Bioinformatics </a>**<br>
         📖**<a href="https://www.combinatorics.org/" target="_blank">Recent research papers in discrete mathematics</a>**<br>
