@@ -184,5 +184,5 @@ awards:
 
 ## About Me
 
-Hi，I'm HongshenPan🥳,My current interests are studying Machine Learning Systems: Design And Implementation💻,Healthcare Big Data System Technology🧠，5G physical layer end-to-end optimization🖧🛜，High-performance Computing And Parallel Computing💻，AIOT.<br>
+Hi，I'm HongshenPan🥳,My research interests are bioinformatics 🧬, artificial intelligence 🤖, geometry, computer science and applied mathematics, quantum computing, AIOT.<br>
 
