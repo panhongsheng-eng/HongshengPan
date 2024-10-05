@@ -184,5 +184,5 @@ awards:
 
 ## About Me
 
-Hi，I'm HongshengPan🥳,My research interests are Computer Science and Applied Mathematics(Computational Complexity)💻, Quantum Computing And Programming（IBM）, Artificial Intelligence（Machine Learning Systems: Design And Implementation) 🤖, Geometry(Compute Conformal Geometry), ,Bioinformatic（Gene Sequencing Algorithm） 🧬 AIOT.<br>
+Hi，I'm HongshengPan🥳,My research interests are Computer Science and Applied Mathematics(Computational Complexity)💻, Quantum Computing And Programming（IBM）, Geometry(Compute Conformal Geometry), ,Bioinformatic（Gene Sequencing Algorithm） 🧬 ，Artificial Intelligence（Machine Learning Systems: Design And Implementation) 🤖, AIOT.<br>
 
