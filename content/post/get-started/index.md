@@ -45,7 +45,7 @@ Pooling
 Supplementary Material
 Reproducing Experiments
 Recreating Visualizations
-<iframe width="100%" height="600" frameborder="0" src="observablehq.com/d/ffe75ebbbe11a01b"></iframe>
+<iframe width="100%" height="600" frameborder="0" src="[observablehq.com/d/ffe75ebbbe11a01b](https://observablehq.com/@pan-hong-sheng/neighbourhood-definitions-for-cnns-and-gnns)"></iframe>
 ### Get Started
 
 - 👉 [**Create a new site**](https://hugoblox.com/templates/)
