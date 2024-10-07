@@ -45,6 +45,9 @@ Pooling
 Supplementary Material
 Reproducing Experiments
 Recreating Visualizations
+<iframe width="100%" height="600" frameborder="0"
+  src="observablehq.com/d/ffe75ebbbe11a01b">
+</iframe>
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
 ### Get Started
