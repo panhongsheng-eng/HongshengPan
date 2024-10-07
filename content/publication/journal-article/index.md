@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Understanding Convolutions on Graphs"
 authors:
 - admin
 - Robert Ford
