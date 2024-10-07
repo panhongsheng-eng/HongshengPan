@@ -24,10 +24,27 @@ Welcome 👋
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
+1、Introduction
+2、The Challenges of Computation on Graphs
+        Lack of Consistent Structure
+        Node-Order Equivariance
+Scalability
+Problem Setting and Notation
+Extending Convolutions to Graphs
+Polynomial Filters on Graphs
+Modern Graph Neural Networks
+Interactive Graph Neural Networks
+From Local to Global Convolutions
+Spectral Convolutions
+Global Propagation via Graph Embeddings
+Learning GNN Parameters
+Conclusions and Further Reading
+GNNs in Practice
+Different Kinds of Graphs
+Pooling
+Supplementary Material
+Reproducing Experiments
+Recreating Visualizations
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
 ### Get Started
